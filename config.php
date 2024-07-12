@@ -37,7 +37,7 @@ $accentColor = 'pink';
 $downloadMode = 1;
 
 // 单个文件下载限速，单位：KB/S（下载模式为1时生效
-$maxSpeed = 100;
+$maxSpeed = 10240;
 
 // 文件服务器链接（下载模式为3时生效
 $downloadURL = "https://share.llilii.cn";
