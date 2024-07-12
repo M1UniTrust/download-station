@@ -6,7 +6,7 @@
 $rewrite = false;
 
 // 下载文件存储目录（如果下载模式为1时建议修改
-$path = './file';
+$path = './download';
 
 // 网址设定，为空为自动获取（eg. https://share.llilii.cn
 $siteURL = '';
