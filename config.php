@@ -12,13 +12,13 @@ $path = './download';
 $siteURL = '';
 
 // 网站名称
-$siteName = '未知下载站';
+$siteName = '下载站';
 
 // 网站介绍
-$siteDescription = "由一条咸鱼开发的简易（陋）下载站";
+$siteDescription = "下载站";
 
 // 站点关键词
-$siteKeywords = '未知下载站,吴先森';
+$siteKeywords = '下载站';
 
 // MDUI框架地址（支持外部CDN地址
 $mduiPath = "/static/mdui";
