@@ -6,7 +6,7 @@
 $rewrite = false;
 
 // 下载文件存储目录（如果下载模式为1时建议修改
-$path = './download';
+$path = './files';
 
 // 网址设定，为空为自动获取（eg. https://share.llilii.cn
 $siteURL = '';
@@ -37,7 +37,7 @@ $accentColor = 'pink';
 $downloadMode = 1;
 
 // 单个文件下载限速，单位：KB/S（下载模式为1时生效
-$maxSpeed = 10240;
+$maxSpeed = 5120;
 
 // 文件服务器链接（下载模式为3时生效
 $downloadURL = "https://share.llilii.cn";
